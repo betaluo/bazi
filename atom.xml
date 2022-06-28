@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://betaluo.github.io/</id>
+    <title>老罗说八字</title>
+    <updated>2022-06-28T06:40:43.587Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://betaluo.github.io/"/>
+    <link rel="self" href="https://betaluo.github.io/atom.xml"/>
+    <subtitle>而立之年知天命，顺势而为，幸甚；
+不惑之年知天命，尚有可为，幸甚；</subtitle>
+    <logo>https://betaluo.github.io/images/avatar.png</logo>
+    <icon>https://betaluo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 老罗说八字</rights>
+    <entry>
+        <title type="html"><![CDATA[在伊索寓言里02]]></title>
+        <id>https://betaluo.github.io/post/zai-yi-suo-yu-yan-li-02/</id>
+        <link href="https://betaluo.github.io/post/zai-yi-suo-yu-yan-li-02/">
+        </link>
+        <updated>2022-06-28T03:52:43.000Z</updated>
+        <content type="html"><![CDATA[<p>在伊索寓言里我们可以看到丰富的主题和深刻的寓意。将近三十篇寓言提醒人们：世上存在着邪恶。寓言的中心人物是坏人，他们为所欲为，不断给人类制造灾难，对于这种人我们只能远远避开。有一篇寓言讲述了这样一个故事：银鼠爱上了一个英俊的小伙子，求爱神把它变成一个女人，可是当它成了一个美丽的少女，跟着小伙子回家去以后，却并未改变动物的本性，见到老鼠便“忘记了她在哪里，她现在是谁，从床上一下子朝老鼠扑去，想把它吃掉……”（见《银鼠和阿佛洛狄忒》）。这说明坏人的本性是改变不了的，即使改变也只是表面上收敛，一有风吹草动，他们的恶习就会暴露无遗，这也证实了一个人变坏容易变好难的道理。<br>
+命运变化莫测是伊索寓言的另一个主题。有一篇寓言说的是，有几个人乘船去远航，途中遭遇狂风恶浪，眼看大船就要沉没，航海者痛哭流涕，向众神祷告。可是等到风暴停息，躲过灾难之后，他们兴高采烈，摆酒庆贺，然而，正如舵手对他们说的：“高兴的时候我们也应该记住，风暴随时都会再次袭来！”（见《航海者》）寓言提醒人们，命运随时都会发生变化，人要善于适应环境，应该做到得意不要忘形，失意不要灰心。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊索寓言]]></title>
+        <id>https://betaluo.github.io/post/hello-world/</id>
+        <link href="https://betaluo.github.io/post/hello-world/">
+        </link>
+        <updated>2022-06-28T03:47:01.000Z</updated>
+        <content type="html"><![CDATA[<p>伊索寓言是世界上最古老的寓言，反映了古代希腊人对生活和自然界的看法以及人与人之间的关系。伊索寓言对世界各国影响巨大，法国的拉封丹和俄国的克雷洛夫所创作的寓言中的一些动物的原型及基本情节均取材于伊索寓言。伊索被誉为“希腊寓言之父”、“西方寓言的开山鼻祖”。<br>
+伊索于公元前六世纪出生在爱琴海中的萨摩斯岛上，是奴隶主雅德蒙的奴隶。他从小爱讲故事，因为出众的智慧和渊博的学识而被赐为自由民。获得自由后，伊索经常出入小亚细亚吕底亚国王克洛伊索斯的宫廷，他的才能为国王所赏识，成为国王同希腊各城邦打交道的全权特使。在频繁的外交活动中，他的口才得到了进一步的发挥，他讲的寓言越来越受欢迎，名声也越来越大。但是一次出使德尔斐，被诬陷偷窃圣物，惨遭当地人杀害。伊索的一生就这么以悲剧而告终了，但他那些有着巨大生命力的寓言却代代相传，留存至今。在伊索离世两百多年后，也就是公元前三世纪左右，出现了第一部他的寓言集子，其中收集了两百多个故事，后来经不断编订，内容也逐渐扩充。<br>
+伊索寓言的与众不同之处在于，它的主角除了一般寓言中常见的拟人化的动植物之外，有很大比例是希腊神话人物，如爱神阿佛洛狄忒、主神宙斯、太阳神阿波罗等等。即使是动植物，也不全是狼和羊、狮子和狐狸、橡树和芦苇之类人们耳熟能详的形象，而是采用了读者比较陌生的蜣螂、银鼠、河狸、螽斯、芥菜、刺李等一百多种形象，通过它们的言论、举止、性格来刻画人生，这使得寓言的内容更加丰富，读来颇有新鲜感。此外，大多数寓言的开头或结尾都有一句充满哲理的箴言来概括其深刻含义，以警世醒人。</p>
+]]></content>
+    </entry>
+</feed>
